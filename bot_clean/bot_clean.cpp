@@ -1,3 +1,6 @@
+//Traveling Salesman Problem
+//Implemented as nearest neighbor (not optimal)
+
 #include<iostream>
 #include<vector>
 #include<cmath>
